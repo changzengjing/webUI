@@ -78,8 +78,8 @@
     top: 400px;
     margin-top: -150px;
     z-index: 2;
-    right: 50%;
-    margin-right: -250px;
+    left: 50%;
+    margin-left: -250px;
     
 
 }
@@ -98,6 +98,7 @@
     width: 200px;
     height: 60px;
     margin-top: 50px;
+    /* padding-top: 100px; */
     background-color: #F5704f;
     font-size: 14px;
     color: white;
